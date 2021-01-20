@@ -63,3 +63,6 @@ Modül içerisindeki migration dosyasında modül içerisinde kullanılacak 2 ad
 # Modül create sayfasındaki sikayet tur secimi "sikayetTurleri" isimli tablodan gelmektedir.
 
 ![](screenshots/sikayetTur.png)
+
+# Oluşturulan şikayetin gösterimi.
+![](screenshots/view.png)
